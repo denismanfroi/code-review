@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Post Teste"
+comments: true
 date:   2019-04-09 22:35:42 -0300
 categories: post teste
 author: Denis Manfroi

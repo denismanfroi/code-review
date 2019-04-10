@@ -2,6 +2,7 @@
 layout: post
 title:  "Post Teste Dois"
 date:   2019-04-09 22:35:42 -0300
+comments: true
 categories: post teste
 author: Denis Manfroi
 ---
